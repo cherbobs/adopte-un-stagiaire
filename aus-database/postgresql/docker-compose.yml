@@ -1,0 +1,35 @@
+version: "3.9"
+
+services:
+  postgres-aus:
+    image: postgis/postgis:16-3.4-alpine
+    container_name: postgres-aus
+    shm_size: 512mb
+    volumes:
+      - pgdata-aus:/var/lib/postgresql/data
+      - ./csv:/tmp/csv
+      - ./sql:/tmp/sql
+    environment:
+      POSTGRES_USER: aus-user
+      POSTGRES_PASSWORD: aus2025
+      POSTGRES_DB: postgres
+    ports:
+      - "5433:5432"
+    networks:
+      - web
+  pgadmin-aus:
+    image: dpage/pgadmin4:8.4
+    networks:
+      - web
+    ports:
+      - "5010:80"
+    environment:
+      PGADMIN_DEFAULT_EMAIL: prof@aus.floless.fr
+      PGADMIN_DEFAULT_PASSWORD: aus2025
+
+volumes:
+  pgdata-aus:
+
+networks:
+  web:
+    external: true

@@ -1,0 +1,103 @@
+[33mcommit 8151c1f54d5ec52e5c5170754a28ee83e010f151[m[33m ([m[1;36mHEAD -> [m[1;32mFrontend-Params[m[33m, [m[1;31morigin/Frontend-Params[m[33m)[m
+Author: cherbobs <eva.cherbonnier974@gmail.com>
+Date:   Thu Jun 20 22:23:49 2024 +0200
+
+    essai
+
+[33mcommit cf9e7ca9117016fa1bcc818a2598920f6dc1586b[m
+Author: Celena El Babba <celena.elb@gmail.com>
+Date:   Thu Jun 20 21:11:33 2024 +0200
+
+    error 404 resolu
+
+[33mcommit 278a6e8f16015edad657c23a23862691bc1621e9[m
+Merge: b5cde55 0022fd5
+Author: CharleryM <charlerymalcolm.l@google.com>
+Date:   Thu Jun 20 13:42:34 2024 +0200
+
+    Merge branch 'params_back' into Frontend-Params
+
+[33mcommit 0022fd5af8e4f4992e07c5fb97b08b74ebba5d08[m[33m ([m[1;31morigin/params_back[m[33m)[m
+Author: CharleryM <charlerymalcolm.l@google.com>
+Date:   Thu Jun 20 13:40:59 2024 +0200
+
+    routes update parametres
+
+[33mcommit b5cde5567621074e68977c25e5077bf8127214f8[m
+Author: Celena El Babba <celena.elb@gmail.com>
+Date:   Thu Jun 20 13:29:42 2024 +0200
+
+    params front
+
+[33mcommit 9bb450fd6c6e3127bb49f68932b963173d8cc83a[m
+Merge: 5a3e743 034a915
+Author: Malcolm Charlery <103749954+CharleryM@users.noreply.github.com>
+Date:   Wed Jun 19 10:06:50 2024 +0200
+
+    Merge pull request #2 from HETIC-WEB2-Hackathon-2024/Frontend
+    
+    modif Vue Navbar
+
+[33mcommit 034a9152ff67002daf33b627996d5f999ec67d7f[m[33m ([m[1;31morigin/Frontend_Geo[m[33m, [m[1;31morigin/Frontend-Favoris[m[33m)[m
+Author: vidocq17 <avidanB1704@gmail.com>
+Date:   Wed Jun 19 09:22:25 2024 +0200
+
+    modif Vue Navbar
+
+[33mcommit 5a3e743b0b4608021a8578f084a2a8dcd7f26a91[m[33m ([m[1;32mmain[m[33m)[m
+Merge: 897a958 4a7312e
+Author: CharleryM <charlerymalcolm.l@google.com>
+Date:   Tue Jun 18 18:44:48 2024 +0200
+
+    Merge branch 'main' of github.com:HETIC-WEB2-Hackathon-2024/orange-aus
+
+[33mcommit 897a958028974271f30e633a47d0b44b713452e3[m
+Author: CharleryM <charlerymalcolm.l@google.com>
+Date:   Tue Jun 18 18:40:19 2024 +0200
+
+    corection redirection en prod
+
+[33mcommit 4a7312e669acd4d852c9691096e49b5151713df9[m
+Merge: 61a6084 3c818a0
+Author: Malcolm Charlery <103749954+CharleryM@users.noreply.github.com>
+Date:   Tue Jun 18 15:37:06 2024 +0200
+
+    Merge pull request #1 from HETIC-WEB2-Hackathon-2024/backend
+    
+    Backend
+
+[33mcommit 3c818a0e9110aff11ae4cc7d94802cb4b377550c[m[33m ([m[1;31morigin/backend[m[33m)[m
+Author: CharleryM <charlerymalcolm.l@google.com>
+Date:   Tue Jun 18 15:35:56 2024 +0200
+
+    auth parametre
+
+[33mcommit e83f48e4648b8c6df5d6656e06420d9a2f45d8c4[m
+Author: Makhtar99 <127096437+Makhtar99@users.noreply.github.com>
+Date:   Tue Jun 18 10:47:57 2024 +0200
+
+    we added some requests to database to get data
+
+[33mcommit b19fb584d13fe8bc3f0609dfaeed2dbd18bd2ae6[m
+Author: Makhtar99 <127096437+Makhtar99@users.noreply.github.com>
+Date:   Tue Jun 18 10:47:22 2024 +0200
+
+    we added some logs to handle errors
+
+[33mcommit 2707fcd6c475b192ca3f072231f0898cbbcb7366[m
+Author: Makhtar99 <127096437+Makhtar99@users.noreply.github.com>
+Date:   Tue Jun 18 10:46:53 2024 +0200
+
+    we added new pages to handle the paramaters and offers
+
+[33mcommit 61a60843b72e2ee372d5e6ad8cff3b2f45744be4[m[33m ([m[1;31morigin/frontend[m[33m)[m
+Author: vidocq17 <avidanB1704@gmail.com>
+Date:   Mon Jun 17 13:30:43 2024 +0200
+
+    modif maintheme
+
+[33mcommit 8cc3ee19ff4551c1349471e272536e7564b249d1[m
+Author: florent fauchille <florentfauchille@florents-MacBook-Pro.local>
+Date:   Mon Jun 17 09:48:00 2024 +0200
+
+    init

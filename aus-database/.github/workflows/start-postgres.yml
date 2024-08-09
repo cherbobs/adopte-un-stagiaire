@@ -1,0 +1,45 @@
+name: Reusable workflow to start postgres for a color
+
+on:
+  workflow_call:
+    inputs:
+      color:
+        required: true
+        type: string
+      host:
+        required: true
+        type: string
+    secrets:
+      ssh_key:
+        required: true
+      ssh_user:
+        required: true
+
+jobs:
+  setup-postgres-for-color:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: SCP data folder
+        uses: appleboy/scp-action@master
+        with:
+          host: ${{ inputs.host }}
+          username: ${{ secrets.ssh_user }}
+          key: ${{ secrets.ssh_key }}
+          source: ./postgresql
+          target: /home/ubuntu/
+      - name: deploy database with docker compose
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ inputs.host }}
+          username: ${{ secrets.ssh_user }}
+          key: ${{ secrets.ssh_key }}
+          script: |
+            cd /home/ubuntu/postgresql
+            docker compose up postgres-aus -d
+            sleep 10
+            docker compose exec -it postgres-aus psql -U aus-user -d postgres -f /tmp/sql/create-database.sql
+            docker compose exec -it postgres-aus psql -U aus-user -d aus -f /tmp/sql/create-extension.sql
+            docker compose exec -it postgres-aus psql -U aus-user -d aus -f /tmp/sql/create-tables.sql
+            docker compose exec -it postgres-aus psql -U aus-user -d aus -f /tmp/sql/load-data.sql

@@ -1,0 +1,99 @@
+name: Setup database
+
+on:
+  workflow_dispatch:
+    inputs:
+      database:
+        description: 'Database to setup'
+        type: 'choice'
+        options:
+          - 'postgres-bleu'
+          - 'postgres-marron'
+          - 'postgres-or'
+          - 'postgres-orange'
+          - 'postgres-rose'
+          - 'postgres-rouge'
+          - 'postgres-vert'
+          - 'postgres-violet'
+          - 'mongo-bleu'
+          - 'mongo-marron'
+          - 'mongo-or'
+          - 'mongo-orange'
+          - 'mongo-rose'
+          - 'mongo-rouge'
+          - 'mongo-vert'
+          - 'mongo-violet'
+
+jobs:
+  setup-postgres-bleu:
+    if: github.event.inputs.database == 'postgres-bleu'
+    uses: ./.github/workflows/start-postgres.yml
+    with:
+      color: 'bleu'
+      host: bleu.aus.floless.fr
+    secrets:
+      ssh_key: ${{ secrets.SSH_KEY }}
+      ssh_user: ${{ secrets.SSH_USER }}
+  setup-postgres-marron:
+    if: github.event.inputs.database == 'postgres-marron'
+    uses: ./.github/workflows/start-postgres.yml
+    with:
+      color: 'marron'
+      host: marron.aus.floless.fr
+    secrets:
+      ssh_key: ${{ secrets.SSH_KEY }}
+      ssh_user: ${{ secrets.SSH_USER }}
+  setup-postgres-or:
+    if: github.event.inputs.database == 'postgres-or'
+    uses: ./.github/workflows/start-postgres.yml
+    with:
+      color: 'or'
+      host: or.aus.floless.fr
+    secrets:
+      ssh_key: ${{ secrets.SSH_KEY }}
+      ssh_user: ${{ secrets.SSH_USER }}
+  setup-postgres-orange:
+    if: github.event.inputs.database == 'postgres-orange'
+    uses: ./.github/workflows/start-postgres.yml
+    with:
+      color: 'orange'
+      host: orange.aus.floless.fr
+    secrets:
+      ssh_key: ${{ secrets.SSH_KEY }}
+      ssh_user: ${{ secrets.SSH_USER }}
+  setup-postgres-rose:
+    if: github.event.inputs.database == 'postgres-rose'
+    uses: ./.github/workflows/start-postgres.yml
+    with:
+      color: 'rose'
+      host: rose.aus.floless.fr
+    secrets:
+      ssh_key: ${{ secrets.SSH_KEY }}
+      ssh_user: ${{ secrets.SSH_USER }}
+  setup-postgres-rouge:
+    if: github.event.inputs.database == 'postgres-rouge'
+    uses: ./.github/workflows/start-postgres.yml
+    with:
+      color: 'rouge'
+      host: rouge.aus.floless.fr
+    secrets:
+      ssh_key: ${{ secrets.SSH_KEY }}
+      ssh_user: ${{ secrets.SSH_USER }}
+  setup-postgres-vert:
+    if: github.event.inputs.database == 'postgres-vert'
+    uses: ./.github/workflows/start-postgres.yml
+    with:
+      color: 'vert'
+      host: vert.aus.floless.fr
+    secrets:
+      ssh_key: ${{ secrets.SSH_KEY }}
+      ssh_user: ${{ secrets.SSH_USER }}
+  setup-postgres-violet:
+    if: github.event.inputs.database == 'postgres-violet'
+    uses: ./.github/workflows/start-postgres.yml
+    with:
+      color: 'violet'
+      host: violet.aus.floless.fr
+    secrets:
+      ssh_key: ${{ secrets.SSH_KEY }}
+      ssh_user: ${{ secrets.SSH_USER }}

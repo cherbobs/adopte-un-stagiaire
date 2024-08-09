@@ -1,0 +1,648 @@
+id|metier|secteur_id
+1|Conducteur d'engins de travaux publics|29
+2|Entraîneur sportif|29
+3|Ingénieur chimiste|29
+4|Auxiliaire de puériculture|29
+5|Manutentionnaire|29
+6|Militaire Marine Nationale|29
+7|Poissonnier|29
+8|Aide ménager|29
+9|Professeur des écoles|29
+10|Prototypiste en confection|29
+11|Conducteur de machines agricoles|29
+12|Consultant décisionnel|29
+13|Gendarme|29
+14|Opérateur prépresse|29
+15|Conseiller agricole|29
+16|Mécanicien d'entretien d'avion|29
+17|Bijoutier-joaillier|29
+18|Éducateur de jeunes enfants|29
+19|Chirurgien|29
+20|Hôte d'accueil|29
+21|Ingénieur concepteur en mécanique|29
+22|Conservateur en patrimoine|29
+23|Technicien de contrôle|29
+24|Développeur informatique|29
+25|Facteur d'instruments|29
+26|Scripte|29
+27|Conducteur de travaux|29
+28|Charcutier traiteur|29
+29|Responsable du recrutement|29
+30|Guide de haute montagne|29
+31|Comédien|29
+32|Développeur symfony|29
+33|Biologiste|29
+34|Gérant de portefeuille|29
+35|Chef de chantier en installations électriques|29
+36|Botaniste|29
+37|Télévendeur de voyages|29
+38|Développeur .net|29
+39|Auxiliaire spécialisé vétérinaire|29
+40|Directeur d'accueil collectif de mineurs (ACM)|29
+41|Avocat|29
+42|Relieur-doreur|29
+43|Éducateur technique spécialisé|29
+44|Ingénieur radioprotection|29
+45|Souscripteur|29
+46|Responsable de production alimentaire|29
+47|Designer industriel|29
+48|Attaché de recherche clinique|29
+49|Concepteur-rédacteur|29
+50|Hydrogéologue|29
+51|Journaliste reporter|29
+52|Artiste de cirque|29
+53|Costumier|29
+54|Contrôleur technique automobile|29
+55|Commercial|29
+56|Technicien en métrologie|29
+57|Agent général d'assurances|29
+58|Chirurgien-dentiste|29
+59|Ingénieur technico-commercial en électronique|29
+60|Ingénieur en automatismes|29
+61|Chimiste|29
+62|Assistante maternelle|29
+63|Télésecrétaire|29
+64|Charpentier métallique|29
+65|Cto|29
+66|Aide-soignant|29
+67|Contremaître|29
+68|Concepteur de jeux vidéo|29
+69|Figurant|29
+70|Technicien forestier|29
+71|Juriste d'entreprise|29
+72|Opticien-lunetier|29
+73|Chef de projet sites et sols pollués|29
+74|Enseignant-chercheur|29
+75|Pâtissier industriel|29
+76|Directeur marketing|29
+77|Expert cybersécurité|29
+78|Commercial export|29
+79|Dame de compagnie|29
+80|Aquaculteur|29
+81|Professeur de français|29
+82|Photographe|29
+83|Déclarant en douane|29
+84|Magasinier cariste|29
+85|Directeur de la photographie|29
+86|Mécanicien cycle|29
+87|Directeur d'agence bancaire|29
+88|Conseiller en assurances|29
+89|Paysagiste|29
+90|Professeur de sport|29
+91|Ingénieur maintenance aéronautique|29
+92|Yield manager|29
+93|Maraîcher|29
+94|Technicien électronicien|29
+95|Agent de conditionnement|29
+96|Soigneur d'animaux|29
+97|Diététicien|29
+98|Secrétaire|29
+99|Attaché territorial|29
+100|Assistant en ressources humaines|29
+101|Mécanicien poids lourds|29
+102|Product manager|29
+103|Gestionnaire de contrats d'assurance|29
+104|Danseur|29
+105|Analyste programmeur|29
+106|Cueilleur|29
+107|Responsable approvisionnement|29
+108|Chargé de recherche en recrutement|29
+109|Employé de ménage|29
+110|Infirmier|29
+111|Géologue minier|29
+112|Responsable des ressources humaines|29
+113|Journaliste|29
+114|Jardinier|29
+115|Art-thérapeute|29
+116|Sportif de haut niveau|29
+117|Éducateur spécialisé|29
+118|Echafaudeur|29
+119|Travailleur familial|29
+120|Chef des ventes|29
+121|Conseiller en économie sociale et familiale|29
+122|Décorateur|29
+123|Consultant en management de l'innovation|29
+124|Menuisier|29
+125|Pâtissier|29
+126|Chef de projet multimédia|29
+127|Géologue|29
+128|Démographe|29
+129|Traffic manager|29
+130|Ingénieur du son|29
+131|Gouvernant|29
+132|Canalisateur|29
+133|Administrateur judiciaire|29
+134|Brodeur|29
+135|Chauffeur livreur|29
+136|Ingénieur mathématicien|29
+137|Orfèvre|29
+138|Médecin spécialiste|29
+139|Lad-jockey|29
+140|Chargé de recrutement|29
+141|Contrôleur de performance|29
+142|Ingénieur analyste de l'air|29
+143|Chargé de recherche et développement déchets|29
+144|Consultant en systèmes d'information|29
+145|Commissaire-priseur|29
+146|Anesthésiste-réanimateur|29
+147|Masseur kinésithérapeute|29
+148|Business analyst|29
+149|Marchandiseur|29
+150|Programmeur informatique|29
+151|Animateur du patrimoine|29
+152|Agriculteur|29
+153|Enseignant chercheur|29
+154|Soudeur|29
+155|Orthopédiste|29
+156|Auditeur interne|29
+157|Commis de cuisine|29
+158|Technicien en automatismes|29
+159|Chargé de relations publiques|29
+160|Chercheur en physique|29
+161|Consultant|29
+162|Chargé de clientèle banque|29
+163|Tailleur-couturier|29
+164|Responsable QHSE|29
+165|Juriste droit de l'environnement|29
+166|Technicien qualité|29
+167|Technicien de maintenance industrielle|29
+168|Huissier de justice|29
+169|Conseiller funéraire|29
+170|Vendeur articles de sport|29
+171|Conseiller en insertion sociale et professionnelle|29
+172|Moniteur-éducateur|29
+173|Rédacteur territorial|29
+174|Masseur|29
+175|Ingénieur textile|29
+176|Chargé de marketing digital|29
+177|Régleur|29
+178|Ingénieur environnement et risques industriels|29
+179|Ingénieur environnement|29
+180|Esthéticien-cosméticien|29
+181|Trader|29
+182|Intégrateur|29
+183|Psychomotricien|29
+184|Régisseur de spectacles|29
+185|Directeur technique|29
+186|Traducteur|29
+187|Employé de grande surface|29
+188|Data analyst|29
+189|Chauffeur de taxi|29
+190|Technicien de laboratoire de recherche|29
+191|Animateur d'activités physiques et sportives|29
+192|Tourneur sur bois|29
+193|Projectionniste|29
+194|Testeur|29
+195|Secrétaire médical|29
+196|Gestionnaire de paie|29
+197|Sylviculteur|29
+198|Militaire|29
+199|Puériculteur|29
+200|Community manager|29
+201|Agent de propreté et d'hygiène|29
+202|Acheteur|29
+203|Oenologue|29
+204|Secrétaire administratif|29
+205|Tapissier d'ameublement|29
+206|Maroquinier|29
+207|Iconographe|29
+208|Secrétaire de rédaction|29
+209|Grutier|29
+210|Hydraulicien|29
+211|Responsable de laboratoire|29
+212|Chef de projet biodiversité|29
+213|Développeur web|29
+214|Maréchal-ferrant|29
+215|Webmestre|29
+216|Technicien de maintenance en électronique|29
+217|Gardien d'immeuble|29
+218|Accessoiriste|29
+219|Directeur d'hôpital|29
+220|Ajusteur-monteur|29
+221|Domoticien|29
+222|Roboticien|29
+223|Plombier|29
+224|Médiateur scientifique|29
+225|Bottier|29
+226|Caissier|29
+227|Conseiller en fusions-acquisitions|29
+228|Educateur de jeunes enfants|29
+229|Agent de développement local|29
+230|Expert automobile|29
+231|Architecte naval|29
+232|Employé d'élevage|29
+233|Assistant réalisateur|29
+234|Opérateur sur machine à commande numérique|29
+235|Chargé d'études économiques|29
+236|Attaché de presse|29
+237|Conservateur du patrimoine|29
+238|Consultant en informatique décisionnelle|29
+239|Consultant SaaS|29
+240|Chargé d'études naturalistes|29
+241|Vendeur à domicile|29
+242|Conducteur de ligne de production alimentaire|29
+243|Chef de projet technique|29
+244|Pilote d'hélicoptère|29
+245|Maquettiste|29
+246|Technicien électrotechnicien|29
+247|Garde-malade|29
+248|Enseignant spécialisé|29
+249|Chef de chantier|29
+250|Téléconseiller|29
+251|Éducateur de la protection judiciaire|29
+252|Mécatronicien|29
+253|Inspecteur du Travail|29
+254|Solier-moquettiste|29
+255|Développeur javascript|29
+256|Biologiste en environnement|29
+257|Livreur à domicile|29
+258|Sapeur-pompier|29
+259|Concepteur multimédia|29
+260|Climatologue|29
+261|Technicien de maintenance informatique|29
+262|Technicien réalisateur réalisatrice radio|29
+263|Garde pêche|29
+264|Développeur front end|29
+265|Agent de réservation|29
+266|Chargé de projet événementiel|29
+267|Ingénieur éco-concepteur|29
+268|Animateur de maison de retraite|29
+269|Peintre en bâtiment|29
+270|Médiateur familial|29
+271|Lad-driver|29
+272|Pontier|29
+273|Conseiller en séjour|29
+274|Analyste développeur|29
+275|Militaire Armée de l'Air|29
+276|Bactériologiste|29
+277|Brancardier|29
+278|Professeur de russe|29
+279|Conseiller en voyages|29
+280|Architecte logiciel|29
+281|Surveillant de baignade|29
+282|Policier|29
+283|Prothésiste dentaire|29
+284|Infographiste|29
+285|Technicien de police technique et scientifique|29
+286|Garçon de café|29
+287|Chef de rayon|29
+288|Chaudronnier|29
+289|Illustrateur|29
+290|Responsable de magasin|29
+291|Professeur de guitare|29
+292|Formateur|29
+293|Désamianteur|29
+294|Scénariste|29
+295|Attaché d'administration|29
+296|Géomètre-topographe|29
+297|Technicien télécom|29
+298|Styliste|29
+299|Chef de projet digital|29
+300|Musicien|29
+301|Audioprothésiste|29
+302|Psychologue|29
+303|Bio-informaticien|29
+304|Architecte|29
+305|Ingénieur en fonderie|29
+306|BIM manager|29
+307|Boucher|29
+308|Manoeuvre chantier|29
+309|Analyste financier|29
+310|Conducteur de machine onduleuse|29
+311|Cadreur|29
+312|Moniteur de ski|29
+313|Horticulteur|29
+314|Traducteur technique|29
+315|Chef de projet informatique|29
+316|Collecteur de fonds|29
+317|Cordiste|29
+318|Carrossier|29
+319|Tourneur fraiseur|29
+320|Chef d'exploitation d'usine d'incinération|29
+321|Développeur android|29
+322|Conseiller d'élevage|29
+323|Chef de projet communication digitale|29
+324|Développeur java|29
+325|Responsable approvisionnement automobile|29
+326|Tonnelier|29
+327|Assistant de cabinet comptable|29
+328|Manager de risques|29
+329|Moniteur auto école|29
+330|Ouvrier paysagiste|29
+331|Opérateur de production|29
+332|Expert en assurances|29
+333|Ingénieur électricien|29
+334|Professeur d'allemand|29
+335|Mécanicien technicien moto|29
+336|Professeur d'éducation physique et sportive (EPS)|29
+337|Directeur d'office de tourisme|29
+338|Product owner|29
+339|Serveur|29
+340|Agent de laboratoire|29
+341|Garde à cheval|29
+342|Inspecteur des impôts|29
+343|Agent forestier|29
+344|Vendeur en boulangerie|29
+345|Coiffeur|29
+346|Laveur de vitres|29
+347|Agronome|29
+348|Traiteur industriel|29
+349|Serrurier-métallier|29
+350|Technicien chimiste|29
+351|Orthophoniste|29
+352|ATSEM|29
+353|Eboueur|29
+354|Administrateur systèmes et réseaux informatique|29
+355|Client mystère|29
+356|Professeur de danse|29
+357|Animateur|29
+358|Horloger|29
+359|Consultant informatique|29
+360|Correcteur|29
+361|Collaborateur de notaire|29
+362|Ingénieur production en mécanique|29
+363|Chef de station de traitement des eaux|29
+364|Dessinateur-projeteur|29
+365|Carreleur|29
+366|Gestionnaire de patrimoine|29
+367|Coach sportif|29
+368|Plongeur en restauration|29
+369|Ingenieur surete de fonctionnement automobile|29
+370|Chef de fabrication des industries graphiques|29
+371|Inspecteur du permis de conduire|29
+372|Agent arboricole|29
+373|Professeur de piano|29
+374|Chargé de valorisation de la recherche|29
+375|Accompagnateur de tourisme équestre|29
+376|Animateur 2D et 3D|29
+377|Bibliothécaire|29
+378|Accompagnateur de voyages|29
+379|Boulanger|29
+380|Tourneur-fraiseur|29
+381|Consultant en conduite de changement|29
+382|Collaborateur d'expertise comptable|29
+383|Ingénieur technico-commercial en chimie|29
+384|Courtier|29
+385|Responsable achats en chimie|29
+386|Secrétaire d'édition|29
+387|Juriste en propriété intellectuelle|29
+388|Gestionnaire actif|29
+389|Praticien de spa|29
+390|Ingénieur systèmes embarqués automobile|29
+391|Conducteur receveur|29
+392|Vendeur prêt à porter|29
+393|Chargé de communication interne|29
+394|Professeur d'anglais|29
+395|Chef de projet web|29
+396|Boucher industriel|29
+397|Accompagnateur en moyenne montagne|29
+398|Médecin généraliste|29
+399|Ingénieur biochimiste|29
+400|Opérateur de saisie|29
+401|Bûcheron|29
+402|Ingénieur procédés en chimie|29
+403|Ingénieur forage|29
+404|Accompagnant des élèves en situation de handicap (AESH)|29
+405|Biologiste médical|29
+406|Sculpteur sur bois|29
+407|Palefrenier|29
+408|Responsable de formation|29
+409|Encadreur|29
+410|Cogniticien|29
+411|Aide aux personnes agées|29
+412|Facteur|29
+413|Scrum master|29
+414|Adjoint administratif|29
+415|Administrateur linux|29
+416|Chef de projet éolien|29
+417|Conducteur machiniste|29
+418|Archiviste|29
+419|Porteur funéraire|29
+420|Secrétaire juridique|29
+421|Enseignant de la conduite automobile|29
+422|Responsable de rémunération|29
+423|Chef cuisinier|29
+424|Assistant marketing|29
+425|Assistant de service social|29
+426|Modéliste|29
+427|Chargé en génie climatique|29
+428|Contrôleur aérien|29
+429|Pisteur secouriste|29
+430|Mécanicien-outilleur|29
+431|Chef de produit touristique|29
+432|Directeur de golf|29
+433|Charpentier bois|29
+434|Chef de projet territorial|29
+435|Ingénieur plasturgiste|29
+436|Directeur de maison de retraite|29
+437|Ingénieur en construction navale|29
+438|Webmaster|29
+439|Informaticien industriel|29
+440|Credit manager|29
+441|Développeur php|29
+442|Conducteur opérateur de scierie|29
+443|Boulanger industriel|29
+444|Hôte de caisse|29
+445|Pêcheur|6
+446|Plâtrier|6
+447|Hydrologue|6
+448|Employé d'aéroport|6
+449|Agent de propreté urbaine|6
+450|Documentaliste|6
+451|Chargé de production|6
+452|Professeur de mathématiques|6
+453|Chargé des relations publiques|6
+454|Déménageur|6
+455|Archéologue|6
+456|Vendeur|6
+457|Chanteur|6
+458|Skipper|6
+459|Professeur d'espagnol|6
+460|Ergothérapeute|6
+461|Viticulteur|6
+462|Manipulateur en électroradiologie médicale|6
+463|Second de cuisine|6
+464|Ingénieur essais|6
+465|Animateur nature|6
+466|Sérigraphe|6
+467|Agent immobilier|6
+468|Animateur socioculturel|6
+469|Technicien paysagiste|6
+470|Inspecteur de banque|6
+471|Guichetier|6
+472|Juriste en droit social|6
+473|Educateur sportif|6
+474|Développeur ruby|6
+475|Charpentier|6
+476|Webdesigner|6
+477|Gérant de restauration collective|6
+478|Ouvrier agricole|6
+479|Parfumeur|6
+480|Acheteur d'espaces publicitaires|6
+481|Ingénieur brevets|6
+482|Garde d'enfants|6
+483|Aide à domicile|6
+484|Ingénieur structures|6
+485|Ingénieur chimiste en développement analytique|6
+486|Professeur|6
+487|Comptable|6
+488|Souffleur de verre|6
+489|Chef comptable|6
+490|Employé espaces verts|6
+491|Ingénieur réservoir|6
+492|Chef de cultures légumières|6
+493|Barman|6
+494|Pharmacien|6
+495|Batelier|6
+496|Promoteur de ventes|6
+497|Assistant de gestion|6
+498|Ingénieur métallurgiste|6
+499|Directeur de création|6
+500|Chauffeur de maître|6
+501|Rédacteur en chef|6
+502|Veilleur de nuit|6
+503|Mandataire judiciaire|6
+504|Fleuriste|6
+505|Couvreur|6
+506|Céramiste|6
+507|Chargé d'études ressources humaines|6
+508|Maître-chien|6
+509|Chercheur en biologie|6
+510|Développeur ios|6
+511|Technicien de maintenance|6
+512|Chargé d'affaires en génie climatique|6
+513|Généticien|6
+514|Assistant dentaire|6
+515|Manager de spa|6
+516|Data scientist|6
+517|Delivery manager|6
+518|Conseiller en environnement|6
+519|Ingénieur de maintenance des véhicules|6
+520|Ascensoriste|6
+521|Ambulancier|6
+522|Commissaire de police|6
+523|Conseiller principal d'éducation|6
+524|Ingénieur calcul|6
+525|Statisticien|6
+526|Agent de transit|6
+527|Designer graphique|6
+528|Fiscaliste|6
+529|Technicien de maintenance en génie climatique|6
+530|Notaire|6
+531|Chef de produit technique en informatique|6
+532|Préparatrice en pharmacie|6
+533|Façadier|6
+534|Consultant en validation|6
+535|Réceptionniste|6
+536|Agent hospitalier|6
+537|Ferronnier d'art|6
+538|Analyste de crédit|6
+539|Mécanicien automobile|6
+540|Électricien installateur|6
+541|Ingénieur en métrologie|6
+542|Responsable de fabrication en chimie|6
+543|Ingénieur d'affaires en génie électrique|6
+544|Maître nageur|6
+545|Géologue modélisateur|6
+546|Professeur d'italien|6
+547|Reporter-photographe|6
+548|Ingénieur électronicien|6
+549|Charcutier industriel|6
+550|Moniteur sportif|6
+551|Préparateur de commande|6
+552|Agent d'escale|6
+553|Technicien en engins de travaux publics|6
+554|Cordonnier|6
+555|Urbaniste|6
+556|Chef de projet moa|6
+557|Contrôleur des impôts|6
+558|Géophysicien|6
+559|Actuaire|6
+560|Assistant de soins en gérontologie|6
+561|Sellier|6
+562|Employé de restaurant|6
+563|Accompagnant éducatif et social|6
+564|Maçon|6
+565|Assistant commercial|6
+566|Ingénieur de maintenance industrielle|6
+567|Apiculteur|6
+568|Ingénieur en électronique numérique|6
+569|Clerc d'huissier|6
+570|Monteur-câbleur|6
+571|Animateur commercial|6
+572|Ingénieur papetier|6
+573|Responsable de projets culturels|6
+574|Ingénieur d'études en sûreté nucléaire|6
+575|Directeur artistique|6
+576|Hôtesse de l'air|6
+577|Inspecteur des douanes|6
+578|Moniteur d'équitation|6
+579|Guide de musée|6
+580|Bronzier|6
+581|Stratifieur|6
+582|Dessinateur en construction mécanique|6
+583|Metteur en scène|6
+584|Halieute|6
+585|Contrôleur de gestion|6
+586|Militaire Armée de Terre|6
+587|Agent de développement touristique|6
+588|Chauffeur poids lourds-Routier|6
+589|Formateur de français langue étrangère (FLE)|6
+590|Technicien remontées mécaniques|6
+591|Auxiliaire de vie|6
+592|Directeur de restaurant|6
+593|Caviste|6
+594|Chargé d'affaires|6
+595|Aérodynamicien en aéronautique|6
+596|Ingénieur systèmes embarqués|6
+597|Conducteur de bus ou d'autocar|6
+598|Ingénieur en mécanique|6
+599|Formulateur|6
+600|Géomaticien|6
+601|Professeur d'arts plastiques|26
+602|Assistant de gestion en PME|26
+603|Ingénieur en aéronautique|26
+604|Directeur d'hôtel|26
+605|Convoyeur de fonds|26
+606|Ergonome|26
+607|Expert-comptable|26
+608|Officier de gendarmerie|26
+609|Sommelier|26
+610|Maître d'hôtel|26
+611|Chef de projet packaging|26
+612|Technicien de fabrication de mobilier et de menuiserie|26
+613|Chercheur en chimie|26
+614|Chargé de R&D|26
+615|Voiturier|26
+616|Programmiste|26
+617|Responsable de scierie|26
+618|Ingénieur essais automobile|26
+619|Pilote de ligne automatisée|26
+620|Entraîneur de chevaux|26
+621|Valet de chambre|26
+622|Designer graphiste|26
+623|Gardien de la paix|26
+624|Naturopathe|26
+625|Conseiller clientèle|26
+626|Carreleur-mosaïste|26
+627|Technicien logistique|26
+628|Sage-femme|26
+629|Technicien automobile|26
+630|Conducteur de travaux agricoles|26
+631|Agent artistique|26
+632|Cuisinier|26
+633|Agent de sécurité|26
+634|Pilote de ligne|26
+635|Architecte d'intérieur|26
+636|Éducateur sportif|26
+637|Diagnostiqueur immobilier|26
+638|Coursier|26
+639|Technicien de l'intervention sociale et familiale|26
+640|Staffeur-ornemaniste|26
+641|Ingénieur en acoustique|26
+642|Agent technique d'entretien|26
+643|Agent de mise sous pli|26
+644|Assistant de direction|26
+645|Affréteur|26
+646|Designer sonore|26
+647|Conducteur de train|26
